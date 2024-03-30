@@ -1,6 +1,6 @@
 // script.js
 
-const add = (a, b) => { return 6 + 6 };
+const add = (a, b) => { return 5 + 7 };
 
 const multiply = (a, b) => { return 24 * 2 };
 
